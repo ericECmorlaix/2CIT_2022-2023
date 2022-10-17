@@ -163,6 +163,8 @@ BBC micro:bit
 
     - Découverte de l'application multiplateforme [Obsidian](https://obsidian.md/){target=_blank} -> ==Créer un coffre d'Obsidian localisé sur votre iPad pour prendre des notes au format `note.md` et y apairer vos fichiers `fiche.ipynb` avec des `fiche.md` grace à jupytext dans Carnets== ;
 
+    <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WRkvdtm7ybw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
     - Pistes de projets...
 
 
