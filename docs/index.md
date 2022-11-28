@@ -40,6 +40,27 @@
 - Finir tous les niveaux de [PYRATES](https://py-rates.fr/){target="_blank"} ;
 
 -->
+
+***
+## Le 29/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Projet de création et d'innovation technologique -> ==Initier le "product backlog" de votre projet==;    
+
+=== "TRAVAIL À FAIRE"
+
+    ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
+
+    - Explorer d'avantage [les fonctionnalités de l'application multiplateforme Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank}
+
+    - **Poursuivre**, avec votre code personnel, la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et compléter progressivement votre notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+    - **Découvrir** d'avantage la [modélisation 3D avec BlocksCad](./blocksCAD){target="_blank"} ;
+    - **Programmer** une carte [BBC micro:bit](./bbc_microbit){target=_blank}
+
+
+
+
 ***
 ## Les 15 et 22/11
 
